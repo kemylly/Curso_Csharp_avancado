@@ -1,0 +1,4 @@
+C:\Users\Kemily\Documents\Quarentena\Curso_Csharp_avancado\Cadastro_usuario\Loja\obj\Debug\Loja.csprojAssemblyReference.cache
+C:\Users\Kemily\Documents\Quarentena\Curso_Csharp_avancado\Cadastro_usuario\Loja\obj\Debug\Loja.Cadastro_usuario.resources
+C:\Users\Kemily\Documents\Quarentena\Curso_Csharp_avancado\Cadastro_usuario\Loja\obj\Debug\Loja.csproj.GenerateResource.cache
+C:\Users\Kemily\Documents\Quarentena\Curso_Csharp_avancado\Cadastro_usuario\Loja\obj\Debug\Loja.csproj.CoreCompileInputs.cache
