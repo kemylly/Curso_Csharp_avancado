@@ -8,7 +8,7 @@ nome VARCHAR (50) NOT NULL,
 login_usu VARCHAR (50) NOT NULL, 
 email VARCHAR (50) NOT NULL, 
 senha VARCHAR(30) NOT NULL, 
-cadastro TIME NOT NULL,
+/*cadastro TIME NOT NULL,*/
 situacao VARCHAR (50) NOT NULL, 
 perfil INT NOT NULL
 );
